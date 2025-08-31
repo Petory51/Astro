@@ -1,5 +1,5 @@
 backend:
-  name: dso
+  name: myblog
   branch: main # change this to your branch
   repo: Petory51/Astro # 1、change this to your repo
   site_domain: blog.dsoblog.dynv6.net # 2、change this to your domain
